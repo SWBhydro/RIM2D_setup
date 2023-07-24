@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: RIM2D setup
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Siep
+    family-names: Bakker
+    email: siepbakker@hotmail.com
+  - given-names: Tim
+    family-names: Busker
+  - given-names: Jens
+    family-names: de Bruin
+    name-suffix: Dr.
+repository-code: 'https://github.com/SWBhydro/RIM2D_setup.git'
+abstract: >-
+  Code for the setup of input data for the RIM2D
+  hydrodynamic model. 
+keywords:
+  - Hydrodynamic modelling
+  - RIM2D
+  - Geul
+  - July 2021 floods
+  - Flood forecasting
+  - GPU
+  - Computational efficiency
