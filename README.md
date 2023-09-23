@@ -6,7 +6,7 @@
 DEM_pre_processing_AHN -> Merging Dutch DEM tiles\
 DEM_pre_processing_DTM -> Merging German DEM tiles\
 DEM_pre_processing_NL_Ger_Flan_Wal -> Merging the DEMs form three countries (Flanders and Wallonie for Belgium). DEMs are referenced to the Dutch DEM's elevation.\
-The final preparation of the merged DEM to be used in the RIM2D model is done in 1.Static_input_maps\
+The final preparation of the merged DEM to be used in the RIM2D model is done in 1.Static_input_maps
 
 ##### Resampling input data 
 1. Processing of the static input maps
