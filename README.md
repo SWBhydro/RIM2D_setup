@@ -13,4 +13,4 @@
 2. Processing of the Dynamic (precipitation) input maps
 
 ##### Processing the data
-4. Calculating statistics of the output data
+3. Calculating statistics of the output data
